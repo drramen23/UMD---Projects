@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\daida\source\repos\CIS200 Project 2 - Priority Queue Simulation\CIS200 Project 2 - Priority Queue Simulation\Source.cpp(201,72): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daida\source\repos\CIS200 Project 2 - Priority Queue Simulation\CIS200 Project 2 - Priority Queue Simulation\Source.cpp(204,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\daida\source\repos\CIS200 Project 2 - Priority Queue Simulation\CIS200 Project 2 - Priority Queue Simulation\Source.cpp(401,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CIS200 Project 2 - Priority Queue Simulation.vcxproj -> C:\Users\daida\source\repos\CIS200 Project 2 - Priority Queue Simulation\x64\Debug\CIS200 Project 2 - Priority Queue Simulation.exe
